@@ -1,6 +1,6 @@
 # Video demonstrations of IRV extensions to Corla
 
-This repository contains some videos demonstrating our IRV extensions to colorado-rla. These are currently in prototype form, using code from [raire-java](https://github.com/DemocracyDevelopers/raire-java), [raire-service](https://github.com/DemocracyDevelopers/raire-service) and [our fork of colorado-rla](https://github.com/DemocracyDevelopers/colorado-rla). We're working actively on updating the prototype, so the version you pull may not quite match the videos you see here.
+This repository contains some videos demonstrating our IRV extensions to colorado-rla. These are currently in prototype form, using code from [raire-java](https://github.com/DemocracyDevelopers/raire-java), [raire-service](https://github.com/DemocracyDevelopers/colorado-rla/tree/prototype-DBUpdate) and [our fork of colorado-rla](https://github.com/DemocracyDevelopers/colorado-rla/tree/prototype-DBUpdate). We're working actively on updating the prototype, so the version you pull may not quite match the videos you see here.
 
 The demonstrations use real election data from Boulder (2023) and the Australian state of New South Wales (NSW) (2021). 
 
